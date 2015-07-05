@@ -1,8 +1,8 @@
 class PagesController < ApplicationController
   def home
   end
-  def campaign
+  def about
   end
-  def howwework
+  def timeline
   end
 end
